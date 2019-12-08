@@ -25,3 +25,7 @@
     background: linear-gradient(to left, #9b6924, #6d4816);
     opacity: 0.8;
 }
+
+.sponsor-img {
+    width: 250px;
+}
